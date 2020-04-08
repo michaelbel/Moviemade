@@ -14,7 +14,7 @@
 [kotlin-badge]:     https://img.shields.io/badge/Awesome-Kotlin-F18E33.svg
 [prs-badge]:        https://img.shields.io/badge/PRs-welcome-brightgreen.svg
 
-<!------------------------------------------------------------------------------------------------------>
+<!----------------------------------------------------------------------------------------------------->
 <img src="screenshots/mockup2.png"/>
 <img src="../master/icons/ic_launcher_playstore.png" width="192" align="right" hspace="0"/>
 
